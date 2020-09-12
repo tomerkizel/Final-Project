@@ -1,7 +1,4 @@
-/*
-	Tomer Kizel 315765891
-	Roei Rabey 314983594
-*/
+
 /*
 	This Programm returns a movesList that covers the entier board or NULL if there
 	is none like that.
