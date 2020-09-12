@@ -1,7 +1,4 @@
-/*
-	Tomer Kizel 315765891
-	Roei Rabey 314983594
-*/
+
 /*
 	This Programm creates a tree with pathTree as a struct.
 	The tree root is a given start point in the board and the
