@@ -1,6 +1,3 @@
-//Roei Rabey 314983594
-//Tomer Kizel 315765891
-//Final Project
 
 /*This program gets a 2D array of moves and a 2D board. Then it checks all the moves in each cell to see if they are
 valid or not according to the project definitions. This program returns a 2D array of valid boardPositions you can
