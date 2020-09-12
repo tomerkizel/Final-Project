@@ -1,6 +1,4 @@
-//Roei Rabey 314983594
-//Tomer Kizel 315765891
-//Final Project
+
 
 /*This program gets moves list, a 2D board and a start pos and prints the list's path according to the project definitions
 ,deletes the invalid moves in the list the returns the number of them*/
