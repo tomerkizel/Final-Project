@@ -1,6 +1,4 @@
-//Roei Rabey 314983594
-//Tomer Kizel 315765891
-//Final Project Q6
+
 
 /*This program reads bordpositions from a binary file, and then it checks if the path of them is valid,
 if it is the program prints the path according to the project definitions, and also return a different int value for:
