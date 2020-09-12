@@ -1,6 +1,4 @@
-//Roei Rabey 314983594
-//Tomer Kizel 315765891
-//Final Project Q5
+
 
 /*This program gets an array of boardpos and saves them in a binary file according to the project definitions
 as bits including an unsigned short int which represents the size of the array*/
